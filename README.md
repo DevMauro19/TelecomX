@@ -1,0 +1,1 @@
+El dia de hoy mostaremos el analisis de la empresa telecom y como  los usuarios abandonan el servicio que la empresa ofrece, en este analisis usaremos python, bibliotecas como pandas, matplotlib, manipularemos los datos ofrecidos por telecom.
